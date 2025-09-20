@@ -80,6 +80,8 @@ To bridge the knowledge gap through an **interactive simulation platform** that 
 4. Open your browser at **http://localhost:3000/** 🚀  
 
 ---
+[🔗 GitHub Repository](https://github.com/yatharth20049/Isotope-Impact-Simulator---)
+
 
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to **fork the repo**, create a new branch, and submit a pull request.  
